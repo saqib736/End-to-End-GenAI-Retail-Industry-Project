@@ -83,3 +83,7 @@ genai_retail_industry_project
 ## License
 
 This project is licensed under the MIT License.
+
+## Acknowledgments
+
+This project was developed as part of a learning exercise in applying reinforcement learning to robotic simulations. Special thanks to the open-source community for providing the tools and libraries that made this project possible.
