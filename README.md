@@ -4,7 +4,7 @@ This project implements an end-to-end Language Model (LLM) system that can inter
 
 ## Project Overview
 
-The system is designed to handle queries related to retail inventory, sales, and discounts data stored in a MySQL database. It can answer questions such as:
+The system is designed to handle queries related to retail inventory, sales, and discount data stored in a MySQL database. It can answer questions such as:
 
 - How many white color Adidas t-shirts do we have left in stock?
 - How much sales will our store generate if we sell all extra-small size t-shirts after applying discounts?
@@ -78,7 +78,7 @@ genai_retail_industry_project
 - How many total t-shirts are left in stock?
 - How many t-shirts do we have left for Nike in XS size and white color?
 - How much is the total price of the inventory for all S-size t-shirts?
-- How much sales amount will be generated if we sell all small size Adidas shirts today after discounts?
+- How much sales amount will be generated if we sell all small-size Adidas shirts today after discounts?
 
 ## License
 
@@ -86,4 +86,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-This project was developed as part of a learning exercise in applying reinforcement learning to robotic simulations. Special thanks to the open-source community for providing the tools and libraries that made this project possible.
+This project was developed as a learning exercise in applying large language models (LLM) in the Retail industry specifically interacting with SQL databases. Special thanks to the open-source community for providing the tools and libraries that made it possible.
